@@ -1,2 +1,2 @@
 # Sentiment-Analysis-using-Naive-Bayes-
-The program is written in R language which analysis patient's health condition  using sentiment analysis and classifies as exist, deteriorate and recover using machine learning algorithm - Naive bayes
+Analysis of a patient’s health condition and it’s classification into sentiments like exist, deteriorate and recover using Sentiment Analysis technique. Sentiments of a patient can be analysed by applying text mining on patient blog and then classifying it using supervised machine learning algorithm- Naive Bayes.The above problem statement is implemented using R-programming.
